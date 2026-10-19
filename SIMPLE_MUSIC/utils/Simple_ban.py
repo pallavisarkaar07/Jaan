@@ -1,6 +1,6 @@
 # -----------------------------------------------
-# 🔸 SIMPLE MUSIC Project
-# 🔹 Developed & Maintained by: Simple Boy (https://github.com/Simple-Boy-1k)
+# 🔸 LOVE ME Project
+# 🔹 Developed & Maintained by: Love Me (https://github.com/Pallavisarkaar07)
 # 📅 Copyright © 2026 – All Rights Reserved
 #
 # 📖 License:
@@ -9,7 +9,7 @@
 # Commercial use, redistribution, or removal of this notice is strictly prohibited
 # without prior written permission from the author.
 #
-# ❤️ Made with dedication and love by Simple_Boy_1k
+# ❤️ Made with dedication and love by Love Me
 # -----------------------------------------------
 from pyrogram import filters
 from SIMPLE_MUSIC.utils.admin_check import admin_check
