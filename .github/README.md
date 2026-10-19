@@ -1,42 +1,8 @@
-<h2 align="center">
-    ─「 𝐒ɪᴍᴘʟᴇ 𝘅 𝐌ᴜsɪᴄ 」─
-</h2>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚂𝙸𝙼𝙿𝙻𝙴+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝗦+𝙸𝗦+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗦𝗜𝗠𝗣𝗟𝗘)](https://github.com/Simple-Boy-1k/SIMPLE_MUSIC)
-
-<p align="center">
-  <img src="https://files.catbox.moe/z1h6ow.jpg">
-</p>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗕𝗘𝗙𝗢𝗥𝗘+𝗗𝗘𝗣𝗟𝗢𝗬)
-
-## 🍁 About This Bot :
-
-<p align='center'>
-This repo will use to deploy for music playing bot of telegram
-</p>
-
-## ♢ How to make your own :
-
-#### ♢ Click on This Drop-down and get more details
-
-<br>
-
-<details>
-<summary><b>Deploy on Heroku:</b></summary>
-
-1. Fork This Repo  
-2. Click on the button to Deploy and follow steps  
-
-<h4> So Follow Above Steps 👆 and then deploy other wise bot won't work</h4>
-
-Press the below button to Fast deploy on Heroku/Railway  
-Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 ### 💜 Heroku
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Simple-Boy-1k/SIMPLE_MUSIC">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/pallavisarkaar07/Jaan">
 <img src="https://www.herokucdn.com/deploy/button.svg">
 </a>
 </p>
