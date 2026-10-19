@@ -76,7 +76,7 @@ async def init():
         importlib.import_module("SIMPLE_MUSIC.plugins" + all_module)
 
     LOGGER("SIMPLE_MUSIC.plugins").info(
-        "𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐨𝐲 𝐈𝐬 𝐁𝐫𝐚𝐧𝐝🥳..."
+        "loveme is best🥳..."
     )
 
     await userbot.start()
@@ -99,7 +99,7 @@ async def init():
     await SIMPLE.decorators()
 
     LOGGER("SIMPLE_MUSIC").info(
-        "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗦𝗜𝗠𝗣𝗟𝗘 𝗕𝗢𝗬\n╚═════ஜ۩۞۩ஜ════╝"
+        "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎MADE BY LOVE ME\n╚═════ஜ۩۞۩ஜ════╝"
     )
 
     await idle()
@@ -108,7 +108,7 @@ async def init():
     await userbot.stop()
 
     LOGGER("SIMPLE_MUSIC").info(
-        "𝗦𝗧𝗢𝗣 𝗦𝗜𝗠𝗣𝗟𝗘 𝗠𝗨𝗦𝗜𝗖🎻 𝗕𝗢𝗧.."
+        "stop love me👑.."
     )
 
 
