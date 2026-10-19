@@ -69,17 +69,17 @@
     },
     "SUPPORT_CHAT": {
       "description": "Your support group link.",
-      "value": "https://t.me/+7jFEQBjWNUwzNjMx",
+      "value": "https://t.me/+C2Rm814XJQs0NDVl",
       "required": false
     },
     "SUPPORT_CHANNEL": {
       "description": "Your support channel link.",
-      "value": "https://t.me/musicsupport2",
+      "value": "https://t.me/RPShyariwold",
       "required": false
     },
     "START_IMG_URL": {
       "description": "Image URL for Start command.",
-      "value": "https://files.catbox.moe/z1h6ow.jpg",
+      "value": "https://files.catbox.moe/dahjy3.jpg",
       "required": false
     },
     "PING_IMG_URL": {
