@@ -144,6 +144,5 @@ Bot also Supported with Channels. Just add bot and assistant to the Channel as A
 
 ## ❤️ Credits :
 
-- [Simple Boy](https://github.com/Simple-Boy-1k)
-- [Devlepor](https://t.me/Itz_Ego_1k)
+- [loveme](https://github.com/Jaan)
 - Everyone In This Journey !
