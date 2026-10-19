@@ -1,5 +1,5 @@
 # -----------------------------------------------
-# 🔸 SIMPLE MUSIC Project
+# 🔸 LOVE ME Project
 # 🔹 Developed & Maintained by: Love Me (https://github.com/pallavisarkaar07)
 # 📅 Copyright © 2026 – All Rights Reserved
 #
