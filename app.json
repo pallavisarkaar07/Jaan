@@ -1,7 +1,7 @@
 {
-  "name": "Simple Music",
+  "name": "Love me",
   "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-  "logo": "https://files.catbox.moe/z1h6ow.jpg",
+  "logo": "https://files.catbox.moe/dahjy3.jpg",
   "keywords": [
     "python3",
     "telegram",
@@ -14,12 +14,12 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "31551910",
+      "value": "31134595",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "c2e8e7946d5e4ea947d44b674008f33e",
+      "value": "7f87b2187924e34ae43c18273fe97145",
       "required": true
     },
     "BOT_TOKEN": {
@@ -34,7 +34,7 @@
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.",
-      "value": "8885285219",
+      "value": "8911274011",
       "required": true
     },
     "STRING_SESSION": {
@@ -44,7 +44,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Your Github repository link for updates.",
-      "value": "https://github.com/Simple-Boy-1k/SIMPLE_MUSIC.git",
+      "value": "https://github.com/pallavisarkaar07/Jaan.git",
       "required": false
     },
     "SHRUTI_API_KEY": {
@@ -64,7 +64,7 @@
     },
     "LOGGER_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!.",
-      "value": "-1003455128274",
+      "value": "--1003976296600",
       "required": true
     },
     "SUPPORT_CHAT": {
