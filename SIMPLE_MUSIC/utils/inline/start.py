@@ -94,7 +94,7 @@ def private_panel(_):
         [
             InlineKeyboardButton(
                 text=_["S_B_7"], 
-                url="https://github.com/Simple-Boy-1k/SIMPLE_MUSIC",
+                url="https://github.com/pallavisarkaar07/Jaan",
                 **get_style(3)
             )
         ],
