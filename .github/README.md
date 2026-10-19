@@ -144,5 +144,5 @@ Bot also Supported with Channels. Just add bot and assistant to the Channel as A
 
 ## ❤️ Credits :
 
-- [loveme](https://github.com/Jaan)
+- [loveme](https://github.com/pallavisarkaar07)
 - Everyone In This Journey !
