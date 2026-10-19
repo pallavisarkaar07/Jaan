@@ -70,7 +70,7 @@ DEEP_API = getenv("DEEP_API")
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ❖ ɢ ɪ ᴛ ʜ ᴜ ʙ   s ᴇ ᴛ ᴛ ɪ ɴ ɢ s ❖
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Simple-Boy-1k/SIMPLE_MUSIC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/pallavisarkaar07/Jaan")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
@@ -78,8 +78,8 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ❖ s ᴜ ᴘ ᴘ ᴏ ʀ ᴛ   s ᴇ ᴛ ᴛ ɪ ɴ ɢ s ❖
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/music_Bot_Adda")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+wcALPiJtMCQ0NWFh")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RPShyariwold")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+C2Rm814XJQs0NDVl")
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
